@@ -72,7 +72,7 @@ Note: The dataset may contain "pending" or NaN values, which are handled during 
 ## Installation
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/adhd-prediction.git
+   git clone https://github.com/Mah6od/adhd-prediction.git
    cd adhd-prediction
    ```
 
