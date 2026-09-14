@@ -130,6 +130,9 @@ a SHAP-based explanation of the result.
   - SHAP feature-contribution bar chart
 - Dark-mode UI throughout (including Streamlit's header/toolbar)
 
+### Demo
+[▶ Watch the app demo](figures/streamlit-app.webm)
+
 **Run it:**
 ```bash
 pip install -r requirements.txt
