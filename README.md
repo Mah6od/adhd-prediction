@@ -131,7 +131,7 @@ a SHAP-based explanation of the result.
 - Dark-mode UI throughout (including Streamlit's header/toolbar)
 
 ### Demo
-[▶ Watch the app demo](figures/streamlit-app.webm)
+![Streamlit App Demo](figures/streamlit-app.gif)
 
 **Run it:**
 ```bash
