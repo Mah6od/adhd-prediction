@@ -1,0 +1,9 @@
+Gradient Boosting (baseline)        | Acc=0.83  Prec=0.82  Rec=0.84  F1=0.82  ROC-AUC=0.95
+Gradient Boosting + GWO             | Acc=0.84  Prec=0.83  Rec=0.85  F1=0.83  ROC-AUC=0.95
+Gradient Boosting + GA              | Acc=0.84  Prec=0.84  Rec=0.85  F1=0.84  ROC-AUC=0.96
+
+BEST TUNED MODEL: Gradient Boosting + GA
+Accuracy	Precision	Recall	F1	ROC_AUC
+Gradient Boosting + GA	0.8446	0.8380	0.8471	0.8393	0.9551
+Gradient Boosting + GWO	0.8378	0.8264	0.8467	0.8317	0.9517
+Gradient Boosting (baseline)	0.8311	0.8185	0.8408	0.8198	0.9538
