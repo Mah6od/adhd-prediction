@@ -1,6 +1,6 @@
 # ADHD-200 three-class classification with an explainable "AI Assistant"
 
-Code for the manuscript on classifying children from the ADHD-200 phenotypic data into **typically developing control**, **ADHD-combined** and **ADHD-inattentive**. The pipeline compares nine class-balancing strategies across five classifiers, tunes the winner with four metaheuristics and Optuna, and explains the final model with SHAP and DiCE (together called the *AI Assistant* in the paper).
+The pipeline compares nine class-balancing strategies across five classifiers, tunes the winner with four metaheuristics and Optuna, and explains the final model with SHAP and DiCE (together called the *AI Assistant* in the paper).
 
 Only phenotypic variables are used; no imaging features.
 
